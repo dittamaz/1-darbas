@@ -67,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Ditta
+Ditta  [Github]
 
 ## ⚠️ License
 
