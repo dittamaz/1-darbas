@@ -16,16 +16,13 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/44-grupe-serlokas/
 
-Design: [Serlokas](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
+Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   responsive design
--   CSS animation
--   form
--   FontAwesome icons
--   CSS units: vh, vw, vmin, vmax
+-   README / [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-   SUPER basic HTML/CSS
 
 ## 🧰 Getting Started
 
@@ -49,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/43-grupe-ufo.git
+    git clone https://github.com/front-end-by-rimantas/44-grupe-serlokas.git
     ```
 2. Install NPM packages
     ```sh
@@ -70,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Ditta
 
 ## ⚠️ License
 
